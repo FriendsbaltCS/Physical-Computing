@@ -17,6 +17,7 @@ We'll usually identify the pins by their _number_ rather than their _name_. The 
 
 ## Breadboard
 
+<img src="./images/lesson_2_2.png" width="300em" align="right" style="margin-left: 10px">
+
 Your Raspberry Pi is probably already attached to a breadboard, which is a tool that allows us to easily connect parts of a circuit together. The board is made up of a grid of holes which are connected by strips of metal so that electrical current can flow between them. In the center of the board, holes in the same row are connected while holes on the edges of the board are connected vertically. These vertically connected pins are known as _power rails_.
 
-<img src="./images/lesson_2_2.png" width="300">
